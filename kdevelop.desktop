@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=bash -i -ckdevelop %u
+MimeType=application/x-kdevelop;
+Icon=kdevelop
+X-DocPath=kdevelop/index.html
+Terminal=false
+Name=KDevelop 4
+GenericName=Integrated Development Environment
+Categories=Qt;KDE;Development;IDE;
